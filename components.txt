@@ -1,0 +1,33 @@
+List of electronics components - PCB
+
+Microcontroller circuit:
+
+1  ATMEGA328P
+1  TACTILE SWITCH B3F-1000
+1  RESISTOR 1K
+1  CRYSTAL 16MHz
+2  CAPACITORS 22pF
+
+Sensoring:
+
+1  1K RESISTOR
+1  P4 FEMALE JACK 
+1  P4 MALE JACK
+
+Interface:
+
+1  LCD 16X2
+1  I2C MODULE (based in PCF8574)
+1  TACTILE SWITCH B3F-1000
+1  RESISTOR 1K
+
+Power:
+
+1  DC POWER SUPPLY (5V - 12V)
+1  POWER JACK
+1  LM7805
+1  CAPACITOR 0.33 uF
+1  CAPACITOR 0.1 uF
+
+
+
